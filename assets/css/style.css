@@ -341,7 +341,7 @@ header .column_4 {
     font-family: "lato";
     text-transform: uppercase;
     letter-spacing: 5px;
-    position: relative;
+    position: center;
     top: 50%;
 }
 .eductin_block h2 span {
@@ -349,9 +349,9 @@ header .column_4 {
     height: 6px;
     background: #f2bb16;
     display: block;
-    margin: 0 auto;
+    margin:20 auto;
     position: relative;
-    left: 25px;
+    left: 15px;
 }
 .eductin_block h3 {
     font-size: 29px;
